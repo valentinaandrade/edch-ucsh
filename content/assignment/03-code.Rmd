@@ -93,7 +93,7 @@ pacman::p_load(dplyr, #Manipulacion de datos
 Vamos a cargar la base de datos **CASEN-COVID19.RData**. Se puede llamar desde el directorio en que la guardaron dando la ruta completa, o también para esta práctica la podemos llamar directamente desde nuestro sitio web:
 
 ```{r}
-load("/assignment/data/proc/CASEN-COVID19.RData") #Cargar base de datos
+load("content/assignment/data/proc/CASEN-COVID19.RData") #Cargar base de datos
 
 #load(url("https://multivariada.netlify.app/assignment/data/proc/CASEN-COVID19.RData")) 
 #Cargar base de datos
