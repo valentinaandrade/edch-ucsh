@@ -107,7 +107,7 @@ view_df(elsoc_18,encoding = "")
 Primero, se cargará la base de datos
 
 ```{r eval=FALSE, include=TRUE}
-load("data/proc/ELSOC_ess.RData") # Cargar base de datos
+load(url("https://multivariada.netlify.app/assignment/data/proc/ELSOC_ess.RData")) # Cargar base de datos
 ```
 
 ## Explorar base de datos
