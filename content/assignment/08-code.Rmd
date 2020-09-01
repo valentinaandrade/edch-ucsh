@@ -53,10 +53,11 @@ Los datos a utilizar corresponden a resultados de pruebas de conocimiento en dis
 
 ```{r echo=FALSE }
 data <-read_excel("content/assignment/data/hsb2.xls")
+save(data,file = "content/assignment/data/hsb2.RData")
 ```
 
 ```{r eval=FALSE}
-data <-read_excel("https://multivariada.netlify.app/assignment/data/hsb2.xls")
+load(url("https://multivariada.netlify.app/assignment/data/hsb2.RData"))
 ```
 
 # Ajustes y descriptivos
