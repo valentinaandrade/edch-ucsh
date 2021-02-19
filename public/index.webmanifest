@@ -1,9 +1,9 @@
 {
-  "name": "Estadística Multivariada",
-  "short_name": "Estadística Multivariada",
+  "name": "Estratificación y Dinámicas de la Sociedad Chilena",
+  "short_name": "Estratificación y Dinámicas de la Sociedad Chilena",
   "lang": "",
-  "theme_color": "#CF4446",
-  "background_color": "#CF4446",
+  "theme_color": "#2e9fff",
+  "background_color": "#2e9fff",
   "icons": [{
     "src": "/images/icon_hu1d2581101f943b2ec717907f12f16034_15667_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

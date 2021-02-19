@@ -37,7 +37,7 @@ font_size: "L"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Estadística Multivariada - Sociología FACSO UChile"
+description: "Estratificación y Dinámicas de la Sociedad Chilena - Sociología Universidad Católica Silva Henríquez"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -89,35 +89,35 @@ edit_page:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Juan Carlos Castillo
+author: Valentina Andrade
 
 Profesor:
-  name: Juan Carlos Castillo
-  email: juancastillov@uchile.cl
-  url: "https://jc-castillo.com"
-  twitter: juankcastillo
-  github: juancarloscastillo
-  office: "325 Edificio Nuevo FACSO"
+  name: Valentina Andrade
+  email: valentinaandrade@uchile.cl
+  url: "https://valentinaandrade.netlify.app"
+  twitter: valentiandrade
+  github: valentinaandrade
+  office: "337, Av. Ignacio Carrera Pinto 1045, FACSO Uchile"
   contact_policy: >-
-    En caso de preguntas asociadas a las clases o prácticas, se recomienda hacerlas públicamente a través de foros en UCursos. También es posible anotarse en mis horarios de reunión con estudiantes, link [aquí](https://juancarloscastillo.github.io/jc-castillo/contact.html)(vía Zoom hasta volver a clases presenciales).
+    En caso de preguntas asociadas a las clases o evaluaciones, se ha dejado a disposición un foro pero se recomienda realizarlas en clases.  En caso de necesitar reunión pueden anotarse en el siguiente [link aquí](https://calendly.com/valentinaandrade/15min)(vía Zoom). El horario de consultas destinado es entre 12:50 a 13:30.
 
 course:
-  number: "SOC 01024"
+  number: "EDCH"
   semester: "Primer semestre"
   days: "Viernes"
-  time: "10:15am - 12:00pm"
+  time: "10:00am - 12:50pm"
   location: "Online"
-  dates: "Marzo-Julio 2020"
-  github: "juancarloscastillo/multivariada"
-  copyrightYear: "2020"
+  dates: "Marzo-Julio 2021"
+  github: "valentinaandrade/edch-ucsh"
+  copyrightYear: "2021"
 
 university:
-  name: Universidad de Chile
-  url: "https://www.uchile.cl/"
+  name: Universidad Católica Silva Henríquez
+  url: "https://www.ucsh.cl/"
 
 school:
-  name: Departamento de Sociología
-  url: "http://www.facso.uchile.cl/sociologia"
+  name: Escuela de Sociología
+  url: "http://csociales.ucsh.cl/sociologia/"
 
 
 ############################
@@ -128,7 +128,7 @@ school:
 sharing_image: "social-image.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "juankcastillo"
+twitter: "valentiandrade"
 
 
 ############################
@@ -158,8 +158,8 @@ main_menu:
 reading_time: false
 
 # Display next/previous section pager? (true/false)
-section_pager: false
-docs_section_pager: false  # Display pager in Docs layout (e.g. tutorials)?
+section_pager: true
+docs_section_pager: true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing: false
@@ -194,7 +194,7 @@ comments:
 
   # Configuration of Disqus.
   disqus:
-    shortname: 'multivariada-netlify-app'  # Paste the shortname from your Disqus dashboard
+    shortname: 'edch-ucsh-netlify-app'  # Paste the shortname from your Disqus dashboard
     show_count: true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
