@@ -15,171 +15,319 @@ output:
 
 ## Propósito general del curso
 
-Al finalizar el curso los estudiantes conocerán los fundamentos del análisis estadístico multivariado.
-Se espera que los estudiantes sean capaces de:
-
-- identificar las principales técnicas de análisis estadístico multivariado utilizadas en la investigación sociológica
-- depurar y preparar datos para la aplicación de distintas técnicas de análisis estadístico multivariado; corroborar las condiciones de aplicación de distintas técnicas de análisis estadístico multivariado
-- utilizar  software de análisis estadístico
-- contrastar hipótesis de investigación
-- elaborar reportes de resultados y conclusiones a partir de la aplicación de diferentes técnicas de análisis estadístico multivariado.
-
-Complementariamente se espera que los estudiantes adquieran herramientas que les permitan comunicar resultados de investigación en contextos sociales, profesionales y académicos.
+El propósito central es que las y los estudiantes se introduzcan en el estudio de la estructura social tanto a nivel objetivo como subjetivo, y su relación con otros fenómenos sociológicos como la movilidad social, conflicto social, pobreza y exclusión social. A partir de la discusión de diversos paradigmas clásicos y contemporáneos, se abordarán modelos de análisis para la sociedad chilena y su relación con las dinámicas y transformaciones sociales y económicas de los siglos XX y XXI. Como consecuencia de ello, la actividad curricular tiene un importante componente práctico y aplicado al análisis de datos sociales.
 
 
-## Competencias a las que contribuye el curso
+### Competencias a las que contribuye el curso
 
-- Diseñar y desarrollar estrategias de investigación social.
+Comprender la relación entre estructura -agencia, individuo-sociedad, micro-macro, actor-sistema, desde las teorías sociológicas clásicas, contemporáneas y desde ciencias sociales afines en el análisis de la realidad social.
 
-- Comunicar los saberes disciplinares de manera pertinente a las características de distintos contextos y audiencias, utilizando diversas estrategias y formatos.
 
-### Sub-Competencias
-- Diseñar y aplicar diversas técnicas de recolección y producción de información empírica, pertinentes al objeto de estudio.
+## Resultados de aprendizaje esperados
 
--  Interpretar información empírica aplicando diversas técnicas, en función de un plan de análisis.
+Al finalizar el curso se espera que la/el estudiante sea capaz de:
 
-- Diseñar estrategias para comunicar los saberes disciplinares considerando las características de distintos contextos y audiencias.
+1. Reflexionar sobre los fenómenos sociales haciendo uso de las principales teorías sociológicas y de otras disciplinas de las ciencias sociales.
 
-- Comunicar en forma oral y escrita los saberes disciplinares considerando distintos contextos y audiencias, haciendo un uso creativo de distintas estrategias.
+2. Fundamentar problemas de investigación desde el aporte de las teorías sociológicas clásicas y contemporáneas y desde ciencias sociales afines en el análisis de la realidad social
 
-## Resultados de Aprendizaje
+### Indicadores de aprendizaje
 
-Al finalizar el curso, los estudiantes:
+En concreto el/la estudiante es capaz de:
 
-- Serán capaces de explicar los conceptos y fundamentos teóricos y estadísticos de la investigación social basada en modelos predictivos para variables observadas y serán capaces de explicar su utilidad para la sociología.
-- Serán capaces de preparar y depurar bases de datos para su análisis utilizando técnicas multivariadas, evaluando la pertinencia y la presencia de condiciones para la aplicación de modelos predictivos para variables observadas.
-- Serán capaces de manejar software especializado y reportar los resultados de modelos predictivos para variables observadas cuantitativas y no cuantitativas.
+1.1  Aplicar los contenidos de las principales corrientes y escuelas sociológicas a la construcción de un objeto de estudio.
 
-## Saberes / contenidos
+2.1 Problematizar los fenómenos sociales para la investigación sociológica considerando aportes multidisciplinares.
 
-### UNIDAD 1: Introducción al modelamiento de datos sociales
-- Tipos de investigación (descriptiva vs relacional y explicativa) y su materialización en el análisis estadístico.
-- La explicación en ciencias sociales: su relación con el concepto de covariación; la explicación como dependencia robusta y como cadena causal y el trabajo con modelos.
-- El trabajo con modelos: tipos de modelos (modelo teórico, modelo normativo, modelo científico, modelo estadístico); la vinculación entre los modelos científicos y los modelos teóricos; los modelos estadísticos como tipo de modelo científico.
-- Ciencia abierta y modelamiento: transparencia, reproducibilidad y replicación.
+2.2 Construye marcos de referencia haciendo uso de la teoría social pertinente con el objeto de análisis.
 
-### UNIDAD 2: Regresión Lineal Simple y Múltiple
 
-- Bases: varianza, covarianza y correlación.
-- Usos y aplicaciones en ciencias sociales de la regresión lineal.
-- Supuestos y condiciones de aplicación de la regresión lineal.
-- Manejo de casos influyentes
-- Procedimientos de estimación e interpretación de parámetros.
-- Introducción de variables de control estadístico.
-- Criterios de validez, capacidad predictiva y evaluación del ajuste de la regresión lineal.
-- Temas avanzados de regresión lineal: introducción de predictores categóricos, estimación de efectos de interacción y mediación, y uso de herramientas gráficas como apoyo a la interpretación y análisis de datos.
 
-### UNIDAD 3: Regresión múltiple para variables dependientes categóricas
+## Contenidos
 
-- Limitaciones de la regresión lineal y potencialidades de la introducción de variables dependientes categóricas.
-- Concepto y sentido de la función logística y funciones afines.
-- Supuestos y condiciones de aplicación de la regresión para variables categóricas.
-- Procedimientos de estimación e interpretación de parámetros de regresión logística.
-- Criterios de validez, capacidad predictiva y evaluación del ajuste de la regresión Logística.
-- Generalización de modelos de regresión logística: modelo de regresión logística multinomial y ordinal.
-- Empleo de otras matrices de correlación (tetracórica, biserial y policórica).
+### Unidad 1. Enfoques y modelos para el análisis de la estructura social
 
-## Metodología (**actualizado**)
+1.1 Introducción. Evolución de la desigualdad en Chile: fuentes para su discusión y medición actual.
 
-En las circunstancias excepcionales de este semestre dada la crisis santiaria, se han realizado una serie de ajustes metodológicos. De todas maneras estos se irán actualizando en el transcurso del semestre según varíe la contingencia y también atendiendio a necesidades y sugerencias de l_s participantes.
+1.2 Representaciones de la desigualdad y la estructura de clases
 
-Tendremos tres espacios principales de aprendizaje:
+1.3 Modelos y enfoques de análisis de la estructura social: tipos y conceptos generales
 
-1. **Sesiones de clases**: mientras dure la emergencia se realizaran online mediante la plataforma Zoom para las dos secciones; eventualmente algunas de las clases serán reemplazadas por videos explicativos. Todo el material de presentaciones se encontrará disponible en este sitio.
+1.4 Enfoque neomarxista explotación, clase y posiciones contradictorias
 
-2. **Prácticas guiadas**: cada tema de las sesiones se acompaña de una guía práctica de aplicación de contenidos. Estas guías están diseñadas para ser desarrolladas de manera autónoma por cada estudiante semana a semana. También serán desarrolladas y revisadas cada semana separados por secciones, para dar mayor oportunidad de participación y resolver las dudas respectivas. Estas prácticas serán supervisadas principalmente por los apoyos docentes.
+1.5 Enfoque funcionalista: estratificación y desigualdad institucionalizada
 
-3. **Trabajos**: se desarrollarán trabajos de investigación durante el semestre (ver sección evaluación abajo) que permitirán a l_s participantes aplicar contenidos y recibir retroalimentación de su desempeño. Los trabajos serán asesorados principalmente por ayudantes que se asignarán a cada grupo.
+1.6 Enfoque neoweberiano: propiedad, autoridad, cierre social y reproducción de clase
 
-## Evaluación (**actualizado**) (detalles en pestaña Trabajos)
+1.7 Enfoque de atributos individuales: clase, consumo y distinción
 
-El curso tendrá tres instancias de evaluación:
 
-- **Trabajo 1** (individual): Correlación y regresión simple (20%).
-- **Trabajo 2** (grupal): Regresión multiple e inferencia estadística (30%)
-- **Trabajo 3** (grupal): Regresión logística, predictores categóricos y supuestos (50%)
+### Unidad 2. La estructura y posición social en Chile: discusiones y mediciones
 
-La nota ponderada de los trabajos equivaldrá al 60% de la nota del curso y el examen final al 40% restante.
+2.1 El estudio de las clases sociales y las relaciones laborales
 
-## Requisitos de aprobación
+2.2 Evolución del mercado laboral y la estructura de clases en Chile
 
-Nota mínima de aprobación: 4,0 (en escala de 1 a 7).
+2.3 Mediciones de condiciones de empleo para la estratificación: propiedad, autoridad y calificación
 
-Requisitos de eximición de examen:
+2.4 El estudio de la estratificación y las clases medias en Chile
 
-1. contar con un promedio ponderado igual o superior a 5.5.
-2. no tener nota bajo 4 en ninguno de los trabajos
+2.5 Análisis de atributos individuales para la clasificación social: la medición de la pobreza y exclusión social
 
-Requisitos para presentación a examen:
+2.6 Mediciones del patrón de consumo de bienes y servicios
 
-- Podrán presentarse al examen de primera oportunidad los estudiantes que hayan obtenido una calificación final igual o superior a 3.5.
-- El examen de segunda oportunidad será para aquellos estudiantes que presenten una nota igual o inferior a 3.5 o aquellos que en el examen de primera oportunidad no hubiesen logrado una nota igual o superior a 4.0.
+### Unidad 3. Fenómenos asociados a la estratificación social en Chile
+
+3.1 La estructura social a nivel subjetivo: la identidad de clase y el estatus social subjetivo
+
+3.2 La estructura social a nivel subjetivo: percepciones de conflicto, posicionamiento político, meritocracia y preferencias
+
+3.3 Fenómenos asociados a la estratificación social: conflicto de clase, acción colectiva y movilidad social
+
+### Unidad 4. Desigualdades múltiples y discusiones actuales
+
+4.1 El enfoque de la interseccionalidad de las desigualdades: género, raza y etnia
+
+4.2 Fenómenos recientes: la hipótesis del fin de las clases, "el precariado" y la concentración de la renta
+
+
+## Metodología
+
+Debido al contexto producido por la pandemia la implementación procura atender a las necesidades y sugerencia de quienes participan en este curso.
+
+El curso tiene tres espacios principales de aprendizaje:
+
+1. **Clases expositivas**: sesiones expositivas que mientras dure la emergencia se realizaran online mediante la plataforma Zoom, y solo eventualmente algunas de las clases serán reemplazadas por videos explicativos. Todo el material de presentaciones se encontrará disponible en este sitio. Concretamente se realizará
+
+  - Exposición de conceptos y discusiones centrales de cada una de las tradiciones de modo de guiar la lectura de estudiantes.
+  -  Discusión y reflexión sobre los modelos de análisis a partir de las dinámicas de la sociedad chilena y latinoamericana en siglo XX y XXI.
+  -  Exposición de principios que permiten clasificar a investigaciones empíricas (estudios/artículos) en ciertos modelos.
+  -  Exposición de principales críticas a modelos a la luz de fenómenos recientes.
+  -  Discusión grupal de estudiantes sobre rendimiento analítico de modelos presentados
+
+2. **Clases prácticas**: sesiones prácticas donde se mostrará para cada modelo su modo de aplicación para el contexto chileno. Estas sesiones están diseñadas para ser desarrolladas en conjunto en el segundo bloque desde la Unidad 2 en adelante. En concreto se realizará:
+
+  - Exposición de la estrategia de análisis utilizadas por las investigaciones (metodología, principales fuentes de datos y modelos utilizados).
+  - Ejercicio práctico de aplicación de conceptos y análisis de datos.
+
+
+3. **Trabajos**: se desarrollará un trabajo de investigación grupal durante el semestre que permitirán a las/los participantes aplicar contenidos y recibir retroalimentación de su desempeño. En concreto se realizará
+  - Conformación de equipos para la realización de proyecto de investigación.
+  - Los equipos definirán un modelo de análisis a utilizar en base al problema de investigación que formulen.
+  - La investigación será aplicada y presentada al curso.
+
+## Evaluación (**por publicar**) (detalles en pestaña Evaluaciones)
+
+El curso tendrá cuatro instancias de evaluación:
+
+| Metodo de evaluación       | Formato           | Ponderación  |  Fecha de entrega   |
+| ------------- |:-------------:| -----:| -------------------:|
+| Ejercicio de análisis bibliográfico      | Individual | 30% | Viernes 23 abril |
+| Ejercicio de análisis de datos      | Individual      |   20% | Viernes 21 mayo  |
+| Ejercicio de investigación empírica | Grupal      |    20% | Viernes 18 junio  |
+| Trabajo Final integrativo | Grupal | 30% | Viernes 16 de julio (exposiciones desde semana anterior)
+
 
 ## Bibliografía
 
 La bibliografía obligatoria para cada semana se presenta en la [planificación del curso](/schedule/), desde donde se puede acceder directamente a los documentos. De todas maneras, abajo algunos textos comentados y referencias para cada unidad.
 
-### Textos principales.
+### Lecturas principales
 
-Hay cuatro referencias principales recomendadas para este curso:
+**Unidad 1**
 
-- **Moore (2010) Estadística aplicada básica. Barcelona: Antoni Bosch**. No estaba en la bibliografía original, pero se incluye porque explica de manera bastante clara (y en español) una serie de análisis estadístico que sirven de base para este curso.
+  **1.1 -1.2 Representaciones de la desigualdad y la estructura de clases**
 
-- **Darlington, R. B., & Hayes, A. F. (2017). Regression analysis and linear models: concepts, applications, and implementation. Guilford Press.** Este libro me parece un muy buen texto para acompañar un curso de regresión en ciencias sociales, lamentablemente está en inglés y por lo tanto solo es bibliografía sugerida. Los capítulos más relevantes estarán a disposición,
+  1. Ossowski, Stanislaw (1972) Estructura de clases y conciencia social, Península, Barcelona. Leer capítulos 2, 3 y 4.(p. 27-89)
 
-- **Wooldridge, J. M. (2008). Introducción a la econometría: un enfoque moderno. Paraninfo Cengage Learning.** Libro clásico de regresión para economístas, la ventaja es que está en español, la desventaja (para nosotros) es que en ocasiones utiliza un lenguaje y ejemplos lejanos a la sociología.
+  **1.3 Modelos de análisis de la estructura de clase**
 
-- **Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data (First edition). Sebastopol: O’Reilly.** Libro con enfoque en el aprendizaje de R con técnicas que ciertamente van más allá del curso, pero muy util como referencia general. Además, está disponible también en español como ["R para ciencia de datos"](https://es.r4ds.hadley.nz/).
+  2. Wright, E. O. (2015). Prefacio y De las batallas del gran paradigma al realismo pragmático: Hacia un análisis integral de las clases . En Comprender las clases sociales (pp. 7–33). Akal.
 
-**Abajo bilbiografía recomendada para cada unidad**
+  **1.4 Enfoque neomarxista explotación, clase y posiciones contradictorias**
 
+  3. Wright, E. O. (1994) Clases, Siglo XXI, leer cap 3: “Un marco general para el análisis de clases” (p.69-116)
 
-### MODELOS CIENTÍFICOS (Unidad 1)
-- García-Ferrando, M. (1985). Análisis y modelización causal en sociología. Reis, 29(1), 143-164.
-- Goldthorpe, J. H. (2001). Causation, statistics, and sociology. European Sociological Review, 17(1), 1-20.
-- Ramón, L., & Ángeles, M. (2006). Estadística y causalidad en la sociología empírica del XX. Papers: revista de sociología, 80(1), 223-255.
-- Salgado, M. (2009). Construyendo explicaciones: el uso de modelos en sociología. Persona y Sociedad, 30 (3), 29-60.
+  **1.5 Enfoque funcionalista: estratificación y desigualdad institucionalizada**
 
-### MODELOS DE REGRESIÓN LINEAL (Unidad 2)
-- Etxeberria, J. (1999). Regresión múltiple. Madrid: La Muralla.
-- Fox, J. & Weisberg, S. (2011) An R Companion to Applied Regression (149-183). London: Sage.
-- Pértega-Díaz, S., & Pita-Fernández, S. (2000). Técnicas de regresión: Regresión lineal múltiple. Cuadernos de atención primaria, 7(3), 173-176. En: https://dialnet.unirioja.es/servlet/articulo?codigo=2331162
-- Pértega-Díaz, S., & Pita-Fernández, S. (2000). Técnicas de regresión: Regresión lineal simple. Cuadernos de atención primaria, 7(2), 91-94. En: https://dialnet.unirioja.es/servlet/articulo?codigo=2331559
-- Grolemund, G. & Wickam, H. (2017) R for Data Science. Disponible en: https://r4ds.had.co.nz/
+  4. Davis, K, Moore, W., Tulmin, M. y Wesolowski, W. (1972): "El continuo debate sobre la desigualdad", en Bendix y Lipset: Clase, status y poder, vol. I, Ed. Foessa (pp.155-170)
 
-### MODELOS DE REGRESIÓN PARA VARIABLES CATEGÓRICAS (Unidad 3)
-- Silva LC, Barroso J. (2004). Regresión Logística. Cuaderno 27. Madrid: La Muralla.
-- Silva LC. (1995). Excursión a la regresión logística en ciencias de la salud. Madrid: Díaz de Santos; 1995.
-- Jovell, A.J. (1995). Análisis de regresión logística, Cuadernos Metodológicos del CIS. Madrid.
+  **1.6 Enfoque neo weberiano: propiedad, autoridad, cierre social y reproducción de clase**
 
-### Links & otras recomendaciones
+  5. J. Goldthorpe (1992) “Sobre la clase de servicio, su formación y su futuro”. Zona abierta. (pp.230-261)
 
-- [Econometrics with R](https://www.econometrics-with-r.org/6-2-tmrm.html)
+  6. Parkin, Frank (1984) Marxismo y teoría de clases. Una crítica burguesa. Espasa-Calpe, Madrid. cap 4: “El cierre social como exclusión” (pp.69-108)
 
+  **1.7 Enfoque de atributos individuales: clase, consumo y distinción**
 
-## Software
+  7. Bourdieu, Pierre (1979): La distinción, Ed. Taurus, Leer cap. 2 (97-164)
 
-Usaremos R 4.0 a través de la interfaz de RStudio. También realizaremos ejercicios y prácticas online en RCloud.
+**Unidad 2**
 
-## Plataformas de comunicación y discusión
+  **2.1 -2.3 El estudio de las clases sociales y las relaciones laborales**
 
-- Foros Ucursos
-- En evaluación
-  - Disqus
+  8. Pérez Ahumada, P. (2018).  Clases sociales, sectores económicos y cambios en la estructura social chilena entre 1992 y 2013. Revista de la Cepal, N° 126, 171-192.
 
+  **2.4 El estudio de la estratificación y las clases medias en Chile**
 
-## VARIOS
+  9. Torche, F. (2006). Una clasificación de clases para la sociedad chilena. Revista de sociología, Nº 20, 15-43.
 
-- Las clases en general se acompañan de documentos de presentación, que estarán disponibles antes de la sesión en la página de [Materiales](/class/), y están desarrollados con base en Rmarkdown/XaringanRmarkdown/ Xaringan. Estos documentos no son:
+  10. Hopenhayn, M. (2010) "Clases medias en América Latina: sujeto difuso en busca de definición", en A. Bárcena & N. Serra (Editores) Clases medias y desarrollo en América Latina, CEPAL. (p.11-  36)
 
-  - “la clase”
-  - autoexplicativos (ni aspiran a serlo)
-  - “el ppt” (ni mucho menos “la ppt”)
+  **2.5-2.6 Análisis de atributos individuales para la clasificación social: la medición de la pobreza y exclusión social**
 
-- **Políticas de participación y trato**: se espera y enfatiza la participación por distintos canales disponibles. También se enfatiza un trato respetuoso y horizontal. Quienes están tomando este curso serán referidos como participantes y/o estudiantes, evitar el uso de "l_s cabr_s" o "l_s chiquill_s". Quien no se sienta tratad_ apropiadamente o vea que otr_s no lo estan siendo, se solicita reportar para solucionar la situación.
+  11. Aguilar, O. (2009) “Principios de diferenciación material y simbólica en la estratificación social”, en El arte de clasificar a los chilenos. Enfoques sobre los modelos de estratificación en Chile, Ediciones Universidad Diego Portales (P.131-152)
 
+**Unidad 3**
+
+  **3.1 La estructura social a nivel subjetivo: la identidad de clase y estatus social subjetivo**
+
+  [12. Elbert, R., & Pérez, P. (2018). The identity of class in Latin America: Objective class position and subjective class identification in Argentina and Chile (2009). Current Sociology, 66(5), 724–747.](https://doi.org/10.1177/0011392117749685)
+
+  13. Castillo, Juan Carlos, Miranda, D., & Cabib, I. M. (2013). Todos somos de clase media: Sobre el estatus social subjetivo en Chile. Latin American Research Review, 155–173.
+
+  **3.2 La estructura social a nivel subjetivo: percepciones de conflicto, posicionamiento político, meritocracia y preferencias**
+
+  14. Pérez Ahumada, P. (2013). Encontrando lo que nunca estuvo perdido. Conciencia de clase y conflicto de clases en el régimen neoliberal chileno. Revista de Sociología, 28, 83–111.
+
+  15. Castillo, Juan C., Bargsted, M., Olivos, F., & Mackenna, B. (2015). Percepción del conflicto en Chile: Un análisis desde la opinión pública, 2006-2013. En M. Castillo & C. Maldonado (Eds.), Desigualdades. Tolerancia, legitimación y conflicto en las sociedades latinoamericanas. RIL
+
+  **3.3 Fenómenos asociados a la estratificación social: conflicto de clase, acción colectiva y movilidad social**
+
+  16. Pérez, P. & Andrade, V. (2021) ¿Dejamos de sentirnos trabajadores? Identidad de clases en tiempos de movilización social y revitalización sindical en Chile (1999-2019). (en evaluación). DOI 10.17605/OSF.IO/PZGST
+
+  17. Barozet, Espinoza & Méndez (2013) “Estratificación y movilidad social bajo un modelo neoliberal: el caso de Chile”. Revista Laboratorio.25 (p.169-191)
+
+**Unidad 4**
+
+  **4.1 El enfoque de la interseccionalidad de las desigualdades: género, raza y etnia**
+
+  18. Aguilar, O., Pérez, P., Ananías, R., Mora, C., y Blanco, O. (2016). Intersección entre la clase y el género y su efecto sobre la calidad del empleo en Chile. Revista de la CEPAL, N° 120, 141-161.
+
+  19. Mora,‭ ‬C.‭ (‬2013‭) “‬Racialisation of Immigrants at Work:‭ ‬Labour Mobility and Segmentation of Peruvian Migrants in Chile‭”‬.‭  ‬En:‭ ‬Bulletin of Latin American Research.‭ ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+  **4.1 Fenómenos recientes: la hipótesis del fin de las clases, "el precariado" y la concentración de la renta**
+
+  20. Pakulski, Jan. (2015). “Fundamentos de un análisis de clases posclasista” en E. O. Wright (Editor) Modelos de análisis de clases, Tirant Humanidades, Valencia (p.211-247).
+
+  21. Wright, E.O (2015) Comprender las clases sociales. Capítulo VII "Las ambigüedades de la clase en El capital en el siglo XXI de Thomas Piketty" (p.153-167)y Capítulo IX "¿Es una clase el precariado?"(p.187-208)‭ ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+### Lecturas complementarias
+
+**Unidad 1**
+
+- [Araujo, K. (2013).  La igualdad en el lazo social: procesos sociohistóricos y nuevas percepciones de la desigualdad en la sociedad chilena. Dados, Vol.56, N°1, 109-132.](https://www.scielo.br/scielo.php?pid=S0011-52582013000100005&script=sci_abstract&tlng=es)
+
+- [Senado (2012). Retrato de la desigualdad en Chile. Santiago de Chile: República de Chile.](https://www.bcn.cl/obtienearchivo?id=documentos/10221.1/29929/1/PDF_librodesigualdad_ultima_version.pdf)
+
+- Sen, Amartya. “Igualdad de qué”. En S. M. McMurrin (ed.). Libertad, Igualdad y Derecho. Barcelona, Ed. Ariel, 1988.
+
+- Wright, E. O. (2015): “Fundamentos de un análisis de clases neomarxista” en E. O. Wright (Editor) Modelos de análisis de clases, Tirant Humanidades, Valencia (p.19-54)
+
+- Dahrendorf, Ralf (1962): Las clases sociales y su conflicto en la sociedad industrial, Ed. RIALP, Madrid. Leer capítulo 4. (p.160)
+
+- Parkin, Frank (1984) Marxismo y teoría de clases. Una crítica burguesa. Espasa-Calpe, Madrid. cap5: “el cierre social como usurpación” y 6: “El cierre social dual”
+
+- Treiman, D. (1976). A standard occupational prestige scale for use with historical data. The Journal of Interdisciplinary History, 7(2), 283–304.
+
+**Unidad 2**
+
+- Torche, F., y Wormald, G. (2004). Estratificación y movilidad social en Chile: Entre la adscripción y el logro. Serie Políticas Sociales, N° 98. Santiago de Chile: Cepal
+
+- Joignant, A.; Güell, P. (eds.) (2009). El arte de clasificar a los chilenos. Enfoques sobre los modelos de estratificación en Chile. Santiago de Chile: Universidad Diego Portales.
+
+- [Gayo, M., Méndez, M. L., y Teitelboim, B. (2013). Exclusividad y fragmentación: Los perfiles culturales de la clase media en Chile. Universum, Vol. 1, N° 28, 97-128.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-23762013000100006)
+
+- Sembler, Camilo (2006) “Estratificación social y clases sociales. Una revisión analítica de los sectores medios”, CEPAL, Serie Políticas Sociales Nº 125
+
+- Bourdieu, Pierre (1979): La distinción, Ed. Taurus, Leer cap. Conclusiones
+
+**Unidad 3**
+
+- [Pérez Ahumada, P. (2014). Class consciousness in a mature neoliberal society: Evidence from Chile. Research in Social Stratification and Mobility, 38, 57–75.](https://doi.org/10.1016/j.rssm.2014.06.002)
+
+- Lora, E & J. Fajardo-González (2015) "Feeling Middle Class and Being Middle Class. What Do Subjective Perceptions Tell Us?", en J. Dayton-Johnson, Latin America's Emerging Middle Class, Plagrave Macmillan
+
+- Castillo, Juan C., Iturra, J., Meneses, F., Andrade, V. (2021) Impuestos, redistribución y meritocracia: Cambios en Chile desde 1999 y 2019
+
+- Pérez Ahumada, P. (2012). Movilizaciones sociales y conflicto de clases en Chile. Consideraciones para una teoría crítica de la sociedad. Actuel Marx Intervenciones, 13, 65–91.
+
+- Espinoza, V.; Núñez, J. (2014). Movilidad ocupacional en Chile 2001-2009.¿Desigualdad de ingresos con igualdad de oportunidades? Revista Internacional de Sociología, Vol. 72, N° 1, 57-82.
+
+**Unidad 4**
+- Mora, C. (ed.) (2013). Desigualdad en Chile: la continua relevancia del género. Santiago de Chile: Ediciones Universidad Alberto Hurtado.
+
+- Wright, E. O. (1989). Women in the class structure. Politics & Society, 17(1), 35-66
+
+- McCall, L. (2001) Complex Inequality: Gender, Class and Race in the New Economy, Routledge. Leer capítulos 1 y 2.
+
+- Pakulski, J., & Waters, M. (1996). The death of class. London: SAGE
+
+- Standing, Guy. (2013). El precariado. Una nueva clase social. Barcelona: Pasado y Presente. Leer capítulos 1,2 y 3
+
+- Piketty, Thomas. (2014). Capital en el Siglo XXI. México: Fondo de Cultura Económica. Leer introducción.
+
+## Fuentes de datos
+
+**Encuestas Nacionales**
+
+- Encuesta Nacional de Empleo (ENE) – Instituto Nacional de Estadística
+
+- Encuesta Suplementaria de Ingresos (ESI) – Instituto Nacional de Estadística
+
+- Encuesta de Presupuestos Familiares (EPF) – Instituto Nacional de Estadística
+
+- Encuesta de Caracterización Socioeconómica (CASEN) – Ministerio del Desarrollo Social
+
+- Encuesta de Endeudamiento de Hogares (EEH) – Banco Central
+
+- Encuesta Longitudinal Social (ELSOC), Observatorio de Huelgas Laborales  (OHL), Observatorio de Conflicto Social (OCS) – Centro de Estudio de Conflicto y Cohesión Social
+
+- Encuesta CEP – Centro de Estudios de Opinión Pública
+
+**Encuestas Internacionales**
+
+- Latinobarómetro (LAPOP)
+
+- International Social Survey Programm (ISSP) – Module “Social Inequality”
+
+- International Social Survey Programm (ISSP) – Module “Work Orientations”
+
+**Archivos de datos**
+
+- OCDE STATS
+
+- ILO STATS
+
+- World Bank STATS
 
 
 ## Programación de sesiones
 
 Visitar la página de [Planificación](/schedule/).
+
+## Otros
+
+### Materiales
+
+- Las clases en general se acompañan de documentos de presentación, que estarán disponibles antes de la sesión en la pestaña de [Clases](/class/) y lo complementario en [Materiales](/tutorial/)
+
+- El software que se utilizará para análisis de datos es R 4.0, pero para sus evaluaciones pueden utilizar SPSS, STATA y/o Excel.
+
+
+### Plataformas de comunicación y discusión
+
+- Foro del Aula Virtual
+- Disqus
+- Correo electrónico (evitaremos su uso para que todos/as podamos participar en la discusión).
+
+
+### Políticas de participación y trato
+
+- El contexto online es difícil tanto para estudiantes como docentes. Es por ello que se espera y enfatiza en la participación de ustedes en clases y distintos canales dispuestos para el curso.
+
+- La participación siempre debe ser respetuosa y horizontal, y en caso de sentir que esto no ha sido cumplido deben contactarse con [la docente a cargo](mailto:"valentinaandrade@uchile.cl") para solucionar la situación.
+
+
+### Requisitos de aprobación
+
+- Nota mínima de aprobación: 4,0 (en escala de 1 a 7).

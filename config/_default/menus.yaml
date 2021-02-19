@@ -5,12 +5,12 @@ main:
   - name: Planificación
     url: /schedule/
     weight: 2
-  - name: Material
+  - name: Clases
     url: /class/
     weight: 3
-  - name: Trabajos
+  - name: Evaluaciones
     url: /reference/
     weight: 4
-  - name: RStudio.clou
+  - name: Material
     url: /tutorial/
     weight: 5
