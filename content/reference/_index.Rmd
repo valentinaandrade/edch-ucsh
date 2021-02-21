@@ -1,135 +1,101 @@
 ---
-title: Trabajos
-slug: trabajos
+title: Evaluaciones
+slug: reference
 output:
   blogdown::html_page:
       toc: TRUE
 ---
 
-El curso tendrá tres instancias de evaluación:
+El curso tendrá cuatro instancias de evaluación:
 
-- **Informe 1** (individual): Correlación y regresión simple (20%).
-- **Informe 2** (grupal): Regresión multiple e inferencia estadística (30%)
-- **Informe 3** (grupal): Regresión logística, predictores categóricos y supuestos (50%)
-
-La nota ponderada de los trabajos equivaldrá al 60% de la nota del curso y el examen final al 40% restante.
-
-# Pauta de trabajo individual (Informe 1)
-
-Este trabajo abarca la primera parte del curso hasta regresión simple (Sesión 4: Regresión simple 2). Este trabajo consiste en un informe breve, consistente en preparación y análisis de datos incluyendo como producto final la estimación e interpretación de una regresión simple. Para ello, los pasos son los siguientes:
-
-- seleccionar una base de datos de interés (ver abajo las sugeridas para los trabajos grupales)
-- seleccionar las variables a analizar, dar una breve justificación
-- generar el código de preparación de datos y la base procesada
-- generar el código de análisis y reportar los resultados.
-
-El informe tiene las siguientes secciones:
-
-1. Identificación: Tema y nombre de estudiante
-2. Resumen (200 palabras) (0.5p)
-3. Antecedentes de la relación estudiada (300 palabras) (0.5p)
-4. Metodología (1p)
-
-    4.1- Datos (descripción)
-
-    4.2- Variables (descripción y tabla con estadísticos descriptivos)
-5. Análisis (2p)
-
-    5.1 Análisis descriptivo
-
-    5.2 Modelo de regresión
-
-6. Bibliografía
-
-7. Anexos: código de preparación de datos y código de análisis (2p)
-
-Fecha de entrega: ver Planificación.
-
-## Ejemplo para Informe 1 [aquí](../assignment/ejemplocasencovid/ejemploinforme1.html)
-
-## Comentarios generales trabajo 1
-
-- En general muy buenos informes, sobre todo considerando que no contempla solo regresión, sino también un reporte completo de investigación con todas sus secciones.
-
-- La pauta y ejemplo son una referencia, en algunos casos el apego estricto a la pauta o ejemplo no se adecuaba bien a los temas y datos utilizados
-
-  - Ej: uso de scatterplot (nube de puntos) para variables categóricas, en ocasiones no es informativo.
-
-- Entonces, criterio general para la presentación de resultados: ¿es informativo / ilustrativo?, recordar siempre el énfasis comunicacional del informe, pensar en la audiencia.
-
-- En general los tamaños de los betas son pequeños, R2s también, lo que es esperable sobre todo en trabajos iniciales. Ahora, si esto es relevante o significativo es otra pregunta, tiene relación con la literatura y con inferencia estadística.
-
-- Como referencia a los análisis, siempre tener como antecedentes temas de variabilidad / covariabilidad de las variables. Si hay poca varianza, es poco lo que se puede esperar.
-
-- Mayor cuestionamiento y propuestas de formas de medición de las variables
-
-- En ocasiones se recomienda recodificar las variables para favorecer la interpretación. Por ejemplo, que el mayor valor de la variable exprese la mayor presencia del atributo. Esto sucede a menudo en escalas likert donde 1 es totalmente de acuerdo, se recomienda recodificación inversa (reverse coding).
-
-# Pauta de trabajo grupal (Informes 2 y 3)
-
-## Objetivo general
-
-Aplicar los contenidos del curso a una temática de interés en formato de artículo de investigación breve.
-
-## Sobre los temas
-
-De modo de lograr una mayor colaboración desde el equipo docente a sus trabajos, sugerimos desarrollar los siguientes temas:
-
-- Desigualdad social, educación cívica, justicia distributiva, opinión pública
-- Estratificación social, política educativa, sociología política
-- Economía laboral, relaciones laborales, acción colectiva y condiciones de empleo
-
-Recomendamos utilizar alguna de las siguientes fuentes de datos para realizar los trabajos:
-
-- [ELSOC](http://www.elsoc.cl/) (Ola 1)
-  - [Manual de Usuario](/docs/Manual_Usuario_ELSOC_W01_v2.00.pdf)
-  - [base de datos Ola 1](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0KIRBJ&version=2.0)
-- [CASEN](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/basedatos.php) (evt. subset)
-- [SIMCE](https://www.agenciaeducacion.cl/evaluaciones/que-es-el-simce/) (evt. subset)
-- [LAPOP](https://www.vanderbilt.edu/lapop-espanol/) - OLA 2016
-- [Desiguales](https://www.desiguales.org/descripcin-del-libro)
-- [CEP 83 -  Módulo Desigualdad Social ISSP 2019](https://www.cepchile.cl/cep/encuestas-cep/encuestas-2009-2018/estudio-nacional-de-opinion-publica-mayo-2019)
-- ISSP (International Social Survey Programme)
-  - [Desigualdad Social](https://www.gesis.org/issp/modules/issp-modules-by-topic/social-inequality)
-  - [Rol del Gobierno](documents/data/encuesta_cep77_jul_ago2016.zip)
-  - [Orientaciones del trabajo](https://www.gesis.org/issp/modules/issp-modules-by-topic/work-orientations/2015)
-- [ICTWSS](http://uva-aias.net/en/ictwss)
-- Encuestas Laborales
-  - [ENE](http://webanterior.ine.cl/estadisticas/laborales/ene)
-  - [ESI](https://datosabiertos.ine.cl/dashboards/20610/esi/)
-  - [ENUT](https://datosabiertos.ine.cl/dashboards/20612/enut/)
-  - OHL, ENCLA y otras pueden ser solicitadas directamente a **Valentina Andrade**
+| Metodo de evaluación       | Formato           | Ponderación  |  Fecha de entrega   |
+| ------------- |:-------------:| -----:| -------------------:|
+| Ejercicio de análisis bibliográfico      | Individual | 30% | Viernes 23 abril |
+| Ejercicio de análisis de datos      | Grupal      |   20% | Viernes 21 mayo  |
+| Ejercicio de investigación empírica | Grupal      |    20% | Viernes 18 junio  |
+| Trabajo Final integrativo | Grupal | 30% | Viernes 16 de julio (exposiciones desde semana anterior)
 
 
-## Modalidad de trabajo y asesorías
+# Ejercicio de análisis bibliográfico (1° evaluación) {#evaluacion-1}
 
-- Trabajo de carácter grupal
-  - N° integrantes: **5 estudiantes**. Solo excepcional y justificadamente podrán ser de 4.
+## General
 
-- **Inscripción**
-  - Debe realizarse vía **u-cursos**
-  - El documento debe indicar claramente integrantes, correo, tema y base de datos a utilizar
-  - Es **muy** importante que el correo electrónico a señalar sea el mismo durante todo el semestre, debido a que este es central para el uso de plataformas virtuales
-  - Fecha: Ver planificación.
+- Objetivo: Discutir los elementos principales de modelos para el análisis de la estructura social, reconociéndo estos debates dentro de enfoques y paradigmas de la sociología contemporánea.
 
+- Aprendizaje esperado: el/la estudiante construye marcos de referencia haciendo uso de la teoría social pertinente con el objeto de análisis.
 
-## Entregas
+- Contenido a evaluar: Unidad 1
 
-Este trabajo posee dos entregas, tal como se señala en el programa del curso
+## Pauta
 
-- **Informe 2 (avance)**: Su formato es de un borrador de la entrega final. La idea es avanzar en todas las secciones, incluyendo la temática general a abordar así como también datos y variables en la sección de métodos, y análisis descriptivos. El énfasis en esta primera entrega se encuentra en el planteamiento de las hipótesis y el modelo de regresión asociado. Incluye estimar el modelo de regresión múltiple y su  interpretación (total máximo 2000 palabras)
+(por actualizar)
 
-  - Consideraciones: En el caso de los trabajos donde la variable dependiente sea dicotómica, para esta primera entrega la estimación puede ser realizada preliminarmente con regresión lineal, y para la segunda se espera estimación con regresión logística
+## Modalidad
 
-- **Informe 3 (final)**: Su formato es de artículo/ reporte breve de investigación. En esta entrega se corrigen aspectos del **Informe 2**, junto con profundizar en el chequeo de supuestos, casos influyentes e interacciones (total máximo 3.500 palabras).
+- Trabajo individual
 
-## Secciones del trabajo
+- [Formato](#formato)
 
-1. Título: Breve, lo principal es hacer alusión al objeto central de estudio (variable dependiente) (0,5 pto)
+### Otros recursos
 
-2. Resumen/Abstract (250 palabras), incluye: problema/pregunta, objetivo, datos (y N), resultado principal. (0,5 pto)
+- Pueden descargar la pauta de la evaluación [aquí](../docs/evaluacion/1ev-pauta.pdf)
 
-3. Introducción: definición de la problemática a abordar, su relevancia y principales conceptos (500 palabras). (2 puntos, 1 por la definición del problema y pregunta, y 1 por la definición conceptual)
+- Ejemplo para 1° evaluación [aquí](../docs/evaluacion/1ev-ejemplo.pdf)
+
+# Ejercicio de análisis de datos (2° evaluación) {#evaluacion-2}
+
+## General
+
+- Objetivo: (por actualizar)
+
+- Aprendizaje esperado: Aplica los contenidos de las principales corrientes y escuelas sociológicas a la construcción de un objeto de estudio.
+
+- Contenido a evaluar: Unidad 2
+
+## Pauta
+
+(por actualizar)
+
+## Modalidad
+
+- Trabajo grupal (2 a 3 personas, las mismas que trabajarán en 3° y 4° evaluación)
+
+- [Formalidades](#formato): X n° de palabras
+
+### Otros recursos
+
+- Pueden descargar la pauta de la evaluación [aquí](../docs/evaluacion/2ev-pauta.pdf)
+
+- Ejemplo para 2° evaluación [aquí](../docs/evaluacion/2ev-ejemplo.pdf)
+
+# Proyecto de investigación (3° y 4° evaluación) {#investigacion}
+
+## General
+
+La 3° y 4° evaluación consisten en el desarrollo de una investigación que logre construir un problema sociológico sobre la estructura de clase en Chile, y que este sea aplicado con el análisis de datos.  La evaluación busca cumplir con los siguientes aprendizajes esperados:
+- Aplica los contenidos de las principales corrientes y escuelas sociológicas a la construcción de un objeto de estudio.
+- Problematiza los fenómenos sociales para la investigación sociológica considerando aportes multidisciplinares.
+- Construye marcos de referencia haciendo uso de la teoría social pertinente con el objeto de análisis
+
+En síntesis la investigación consta de dos entregras:
+
+- **3° evaluación** (*avance*): su formato es de un borrador de la entrega final. La idea es avanzar en todas las secciones indicadas en la pauta, incluyendo la temática general a abordar así como también datos y variables en la sección de métodos, y análisis descriptivos. El énfasis en esta primera entrega se encuentra en el planteamiento del problema y la estrategia de análisis a ocupar (máximo 2.000 palabras)
+
+- **4° evaluación** (*final*): Su formato es de artículo y/o reporte breve de investigación. En esta entrega se corrigen aspectos de la **3° evaluación**. Antes de su entrega escrita tiene una instancia oral de presentación (máximo 3.500 palabras).
+
+## Modalidad
+
+- Trabajo grupal (2 a 3 personas, las mismas que trabajarán en 3° y 4° evaluación)
+- **Inscripción**: vía aula virtual hasta X fecha. El documento debe indicar claramente integrantes, correo, tema y base de datos a utilizar
+- [Formalidades](#formato): X n° de palabras
+
+## Pauta
+
+1. Título: Breve, lo principal es hacer alusión al objeto central de estudio (variable principal) (0,5 pto)
+
+2. Resumen/Abstract (250 palabras), incluye: problema/pregunta, objetivo, datos (y N), resultado principal. (1 pto)
+
+3. Introducción: definición de la problemática a abordar, su relevancia y principales conceptos (1000 palabras). (3 puntos)
 
 - En este apartado es importante considerar:
 
@@ -138,16 +104,16 @@ Este trabajo posee dos entregas, tal como se señala en el programa del curso
   - Precisar el concepto central que se va a investigar: Ejemplo "vamos a estudiar participación informal, entendiendo por ello la frecuencia de participación en actividades como marchas, boycotts y en redes sociales".
   - Precisar argumento / hipótesis central "proponemos que a medida que aumenta el nivel de contactos con identificación política de izquierda, aumenta la participación política informal"
   - El resto de la introducción usualmente se divide en dos secciones, que también son referidas como marco teórico, marco referencial, revisión bibliográfica, etc. **Título sugerido: antecedentes conceptuales y empíricos**
-    - El primer apartado corresponde al objeto central de estudio /variable dependiente (explanandum), donde se profundiza en su origen y definición, y se revisan las principales investigaciones que se asocian a este concepto. (**+/-** 5 referencias)
-    - El segundo apartado corresponde a los conceptos relacionados con las variables independientes (explanans) y en los cuales se basan las hipótesis. Se revisan en orden de relevancia. (**+/-** 5 referencias)
+    - El primer apartado corresponde al objeto central de estudio /variable dependiente (explanandum), donde se profundiza en su origen y definición, y se revisan las principales investigaciones que se asocian a este concepto. (**+/-** 6 referencias)
+    - El segundo apartado corresponde a los conceptos relacionados con las variables independientes (explanans) y en los cuales se basan las hipótesis. Se revisan en orden de relevancia. (**+/-** 6 referencias)
 
 4. Objetivos / hipótesis (alrededor de 3) (250 palabras) (1 punto)
 
-5. Metodología: datos (no olvidar número de casos), variables y métodos  (500 palabras). (3 puntos, uno por cada subsección)
+5. Metodología: datos (no olvidar número de casos), variables y métodos  (500 palabras). (2 puntos, uno por cada subsección)
 - Esta sección también incluye una tabla de descriptivos básicos, y una descripción detallada de la operacionalización y medición de las variables.
 - **Sobre la selección de la variable dependiente**: por definición la variable dependiente en regresión múltiple OLS es continua. Escalas tipo likert pueden ser utilizadas en casos justificados y también teniendo en cuenta su variabilidad (si muchos casos se acumulan en pocas categorías la varianza va a ser pequeña, menos posibilidades de covarianza, y por tanto baja probabilidad de encontrar efectos significativos).
 
-6. Análisis (1500 palabras) (8 puntos)
+6. Análisis (1400 palabras) (3.5 puntos)
 - **La sección de análisis sigue la lógica del trabajo anterior**: análisis descriptivo y luego análisis de modelos de regresión
 - Comenzar con análisis descriptivo uni y bivariado, nubes de puntos, tabla de correlaciones (1 punto).
 - Introducción del sentido de los modelos en relación a las hipótesis (1 punto)
@@ -155,14 +121,19 @@ Este trabajo posee dos entregas, tal como se señala en el programa del curso
 - Interpretación (4 puntos).
 - **sobre número de predictores**: al menos tres
 
-7. Discusión de los resultados, con énfasis en la relación entre variable dependiente e independientes, limitaciones, posibles estudios futuros. (500 palabras) (3 puntos)
+7. Discusión de los resultados, con énfasis en la relación entre variable dependiente e independientes, limitaciones, posibles estudios futuros. (600 palabras) (3 puntos)
+
+---
+### Otros recursos
+
+- Pueden descargar las pautas de [evaluación 3°](../docs/evaluacion/3ev-pauta.pdf)  y [evaluación 4°](../docs/evaluacion/4ev-pauta.pdf)
+
+- Ejemplo para investigación [aquí](../docs/evaluacion/inv-ejemplo.pdf)
 
 
-## Formato
+# Formalidades para Evaluaciones {.tabset}
 
-- (R)Markdown: se recomienda su uso pues facilita la integración y reproducibilidad de los análisis en R.
-  - Podrán encontrar una [guía básica para el uso de (R)Markdown](https://jciturras.github.io/Tutorial-rmarkdown/)
-  - En sus **proyectos de RStudio Cloud** pondrán encontrar una plantilla para realizar el trabajo en este formato para el informe final (disponible próximamente aquí).
+## Formato {#formato}
 
 - Formato Tradicional: archivo .pdf en tamaño carta, letra Times New Roman, tamaño 12, interlineado 1,5, márgenes normales (2,5 cm superior e inferior, 3 cm derecho e izquierdo).
 
@@ -170,28 +141,23 @@ Este trabajo posee dos entregas, tal como se señala en el programa del curso
 
 - Tablas de calidad: formato APA [(líneas horizontales y señalando fuente)](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables).
 
+## Fechas
 
-## Fechas:
-
-- Ver Planificación
+- Ver [Planificación](/schedule/)
 
 - Descuento por atraso: 0.5 por día, luego de 3 días de atraso se da el trabajo por reprobado.
 
 ## Modalidad de entrega
 
-En la sección de tareas de UCursos. Para la **Entrega 1** y **Entrega 2** se debe adjuntar un archivo comprimido con los siguientes elementos:
+En la sección de tareas de Aula Virtual. Para la **2° evaluación** y **4 evaluación** se debe adjuntar un archivo comprimido con los siguientes elementos:
 
-1. Base de datos original y procesada
+1. Base de datos utilizada y código de análisis
 
-2. Código de preparación y de análisis
+2. Informe escrito (archivo .pdf)
 
-2. Documento del trabajo (que puede ser un archivo RMarkdown o Word)
+## Recomendaciones para evaluaciones
 
----
-
-## Recomendaciones para el trabajo {.tabset}
-
-### Escritura académica
+**¿Cómo realizar escritura académica?**
 
 - Una idea por párrafo
 
@@ -199,21 +165,4 @@ En la sección de tareas de UCursos. Para la **Entrega 1** y **Entrega 2** se de
 
 - [Taller para escritura académica](https://es.scribd.com/document/454444052/Taller-para-escritura-academica)
 
-- - [Publicación de artículos académicos: buenas prácticas y recomendaciones para la redacción y envío a revistas científicas](https://repositori.upf.edu/handle/10230/44599)
-
-
-### Ejemplos de artículos de investigación
-
-- Con regresión simple
-
-  - [Ortiz-Inostroza, C., & López, E. (2017). Explorando modelos estadísticos para explicar la participación en protestas en Chile. Revista de Sociología, (32), pp. 13-31. doi:10.5354/0719-529X.2017.47883](https://revistadesociologia.uchile.cl/index.php/RDS/article/view/47883/50542
-)
-
-  - [Cereceda-Marambio, K., & Torres-Solís, A. (2017). Satisfacción con la democracia en Chile: De lo normativo a lo valorativo. Revista de Sociología, (32), pp. 32-49. doi:10.5354/0719-529X.2017.47884] (https://revistadesociologia.uchile.cl/index.php/RDS/article/view/47884/50543)
-
-
-- Con regresión logística
-
-  - [Gayo Cal, M. G., Cabrol, G. O., & Méndez, M. L. (2019). Elección escolar y selección de familias: reproducción de la clase media alta en Santiago de Chile. Revista Internacional de Sociología, 77(1), 120. https://doi.org/10.3989/ris.2019.77.1.17.310](http://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/view/1020/1338)
-
-  - [Delfini, M. (2013) La afiliación sindical en Argentina. Análisis sobre sus determinantes. Revista Internacional de Sociología, 71(1)91-114,  http://dx.doi.org/10.3989/ris.2012.01.24.](http://revintsociologia.revistas.csic.es/index.php/revintsociologia/article/view/485/507)
+- [Publicación de artículos académicos: buenas prácticas y recomendaciones para la redacción y envío a revistas científicas](https://repositori.upf.edu/handle/10230/44599)
