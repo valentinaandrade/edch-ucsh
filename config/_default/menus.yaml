@@ -5,12 +5,12 @@ main:
   - name: Planificación
     url: /schedule/
     weight: 2
-  - name: Clases
-    url: /class/
-    weight: 3
   - name: Evaluaciones
     url: /reference/
+    weight: 3
+  - name: Clases
+    url: /class/
     weight: 4
-  - name: Material
-    url: /tutorial/
+  - name: Actividades
+    url: /assignment/
     weight: 5
