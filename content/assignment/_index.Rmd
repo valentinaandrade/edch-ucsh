@@ -1,13 +1,19 @@
 ---
-title: "Prácticas"
-slug: assignments
+title: "Actividades"
+linktitle: "Actividades"
+slug: assignment
 menu:
-  class:
-    parent: Prácticas
-    weight: 2
+  assignment:
+    parent: Contenido
+    weight: 1
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+    highlight: tango
+    number_sections: FALSE
 type: docs
-weight: 2
-
+weight: 1
 ---
 
-### Aquí se accede a las distintas guías prácticas desde el menú de la izquierda
+### Aquí se accede a las distintas actividades desde el menú de la izquierda

@@ -1,9 +1,8 @@
 ---
-title: "Práctica 1. Preparación de datos en R"
-subtitle: "Estadistica Multivariada - Sociología FACSO Universidad de Chile"
-linktitle: "Práctica 1: Preparación datos"
+title: "1. ¿Cómo es la estructura social en Chile?"
+linktitle: "1. Estructura social chilena"
 date: "2020-01-10"
-class_date: "2020-04-03"
+class_date: "2020-03-31"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -11,14 +10,14 @@ output:
   blogdown::html_page:
     template: ../../pandoc/toc-title_html.template
     toc: true
-    highlight: tango
-    number_sections: FALSE
 menu:
-  class:
-    parent: Practicas
-    weight: 1
+  assignment:
+    parent: Contenido
+    weight: 2
 type: docs
-weight: 1
+weight: 2
+pdf: /slides/01_dataviz_s20_looking_at_data.pdf
+thumb: /slides/01_dataviz_s20_looking_at_data.png
 editor_options:
   chunk_output_type: console
 ---
