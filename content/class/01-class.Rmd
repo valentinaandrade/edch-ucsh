@@ -1,6 +1,6 @@
 ---
-title: "Presentación"
-linktitle: "1: Presentación"
+title: "Introducción"
+linktitle: "1. Introducción"
 date: "2020-01-10"
 class_date: "2020-03-31"
 citeproc: false
@@ -42,4 +42,4 @@ editor_options:
 
 ## Lecturas
 
-- [Linares (2018) La explicación en sociología](../../docs/lecturas/linares 2018 Cap.2 Explicacion en sociologia.pdf)
+- [Ossowski, Stanislaw (1972) Estructura de clases y conciencia social, Península, Barcelona. Leer capítulos 2, 3 y 4.(p. 27-89)](/docs/lecturas/principal/U1L01.Ossowski_Estructura_de_clases_y_conciencia_social.pdf)
